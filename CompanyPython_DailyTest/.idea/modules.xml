@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/pycharm_workspace/imcoo_class/.idea/imcoo_class.iml" filepath="E:/pycharm_workspace/imcoo_class/.idea/imcoo_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pythontest.iml" filepath="$PROJECT_DIR$/.idea/pythontest.iml" />
+      <module fileurl="file://E:/pycharm_workspace/test1/.idea/test1.iml" filepath="E:/pycharm_workspace/test1/.idea/test1.iml" />
+      <module fileurl="file://E:/pycharm_workspace/test8511/.idea/test8511.iml" filepath="E:/pycharm_workspace/test8511/.idea/test8511.iml" />
+    </modules>
+  </component>
+</project>
