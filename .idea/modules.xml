@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/company_python.iml" filepath="$PROJECT_DIR$/.idea/company_python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CompanyPython.iml" filepath="$PROJECT_DIR$/.idea/CompanyPython.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HogwartsSDET17/.idea/HogwartsSDET17.iml" filepath="$PROJECT_DIR$/../HogwartsSDET17/.idea/HogwartsSDET17.iml" />
     </modules>
   </component>
 </project>
