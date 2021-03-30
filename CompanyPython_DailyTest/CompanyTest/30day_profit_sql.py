@@ -18,7 +18,6 @@ class TestFrofit():
         data = db.get_data_from_db("SELECT user_id from tb_user_profit_statistics WHERE id=id")
         print(data)
 
-
 # id = random.randint(90000000,99000000)
 # user_id='4343243'
 # db = MysqlDB('172.29.2.157', 'yjsdata', 'PtSjKmMkFwY666', 'yyfax_statistics', 3343, 'utf8')
